@@ -1,2 +1,7 @@
 # music_player_python
-Music_Player_with_python
+
+this is music player
+
+created with python
+
+enjoy
